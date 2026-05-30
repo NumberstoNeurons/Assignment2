@@ -4,7 +4,7 @@
 In your browser, go to:
     https://colab.research.google.com
     
-File → Open Notebook → GitHub tab → paste your repo URL → select numpy_worksheet.ipynb
+File → Open Notebook → GitHub tab → paste your repo URL → select Assignment_2_N2N.ipynb
 
 ### 2. Do the assignment
 Fill in answers and run cells normally in Colab.
